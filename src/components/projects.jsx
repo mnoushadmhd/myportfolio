@@ -59,7 +59,7 @@ const Projects = () => {
                         <img className='h-[145px]' src={require("../images/infinite_scroll.png")} alt="" />
                     </div>
                     <h3 className="px-8 text-lg font-medium leading-7 text-neutral-900 dark:text-neutral-200">Infinite Scroll</h3>
-                    <p className="px-8 text-sm leading-6 text-neutral-700 dark:text-neutral-400">Infinite scroll concept (React) <span className='block text-red-500'>(Note: Page will take 60 secs to load the DB)</span></p>
+                    <p className="px-8 text-sm leading-6 text-neutral-700 dark:text-neutral-400">Infinite scroll concept (React) <span className='block text-red-500'>(Note: Page will take few minutes to load the DB)</span></p>
                 </div>
                 <div className="px-8 flex flex-col justify-center w-full gap-2 md:flex-row md:justify-start md:items-center">
                     <a href="https://infiniteescroll.netlify.app/" target="_blank" rel="noreferrer" className="flex cursor-pointer items-center justify-start gap-1 px-4 py-2 text-sm font-medium transition rounded-md text-white border border-indigo-600 bg-indigo-600 hover:bg-indigo-500 active:bg-indigo-700"> 
