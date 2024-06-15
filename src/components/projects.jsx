@@ -12,7 +12,9 @@ const Projects = () => {
                         <img className='h-[145px]' src={require("../images/promptopia.png")} alt="" />
                     </div>
                     <h3 className="px-8 text-lg font-medium leading-7 text-neutral-900 dark:text-neutral-200">AI Promptopia</h3>
-                    <p className="px-8 text-sm leading-6 text-neutral-700 dark:text-neutral-400">Users can create, copy, edit and delete AI prompts (Next JS - Mongoose & Next Auth)</p>                </div>
+                    <p className="px-8 text-sm leading-6 text-neutral-700 dark:text-neutral-400">Users can create, copy, edit and delete AI prompts (Next JS - Mongoose & Next Auth)</p>  
+                    <p className="px-8 text-sm leading-6 text-neutral-700 dark:text-neutral-400">Please login for full website functions.</p>
+                </div>
                 <div className="px-8 flex flex-col justify-center w-full gap-2 md:flex-row md:justify-start md:items-center">
                     <a href="https://aipromptopia.netlify.app/" target="_blank" rel="noreferrer" className="flex cursor-pointer items-center justify-start gap-1 px-4 py-2 text-sm font-medium transition rounded-md text-white border border-indigo-600 bg-indigo-600 hover:bg-indigo-500 active:bg-indigo-700"> 
                         <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 448 512" height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>
